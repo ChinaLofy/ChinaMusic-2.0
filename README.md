@@ -58,3 +58,6 @@ SPOTIPY_CLIENT_SECRET=SEU_CLIENT_SECRET_DO_SPOTIFY_AQUI
 Com o ambiente virtual ativado ((venv)) e o arquivo .env configurado, inicie o bot com o comando:
 
 python3 startbot.py
+
+# ChinaMusic-2.0
+Bot de Musica para Discord
